@@ -1,4 +1,4 @@
-# CI/CD exercise
+# CI/CD practice
 
 This repo follows the tutorial on: 
 
