@@ -19,7 +19,8 @@ jobs:
       - run:
           name: Running tests
           command: |
-            . venv/bin/avtivate python3 tests.py
+            . venv/bin/avtivate 
+            python3 tests.py
       - store_artifacts:
           path: test-reports/
           destination: CICD_practice
